@@ -1,6 +1,9 @@
 body{
     background-color: blue;
     color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .imagens.jpeg{
