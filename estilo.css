@@ -8,5 +8,12 @@ body{
 
 .imagens.jpeg{
      width: 90%;
+
+
+button{
+    background-color: azure;
+    color: aliceblue;
+    padding:25px
+}     
 }
 
